@@ -1,0 +1,51 @@
+@CHARSET "ISO-8859-1";
+
+BODY { font-family: Verdana; }
+
+.tatetiStyle {
+    background-color:rgb(72, 111, 184);
+}
+
+.tatetiStyle h1 {
+    text-align: center;
+}
+
+.tatetiStyle input {
+    width: 5%;
+    clear: both;
+}
+
+.tatetiStyle i {
+    font-size: small;
+}
+
+.tatetiStyle div {
+    color: rgb(49, 22, 168);
+    text-align: center;
+}
+
+.tableCellStyle {
+    width: 5rem;
+    height: 5rem;
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Courier New', Courier, monospace;
+    border-style: outset;
+    background-color: white;
+}
+
+.tableStyle {
+    background-color: rgb(255, 255, 255);
+    margin-left: auto;
+    margin-right: auto;
+    width: 20rem;
+    height: 20rem;
+    border: 0.5rem outset gray;  
+};
+
+.tableStyle caption {
+    /* caption-side: left;
+    text-align: left; 
+    padding: auto; */
+    
+};
