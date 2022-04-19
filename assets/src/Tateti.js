@@ -2,6 +2,7 @@
 //Para backend, separar funciones como getElementById para obtener el player para separar el negocio de la vista
 //Entonces el getElementById recibe el parametro que le manda el html. Todo eso sirve si esto fuera 
 // tal vez una vez que se usa el tablero se pueda separar mejor la dependecia del front
+Object.defineProperty(exports, "__esModule", { value: true });
 let drawAux = false;
 let endAux = false;
 let turnCounter = 0;

@@ -2,6 +2,8 @@
 //Entonces el getElementById recibe el parametro que le manda el html. Todo eso sirve si esto fuera 
 // tal vez una vez que se usa el tablero se pueda separar mejor la dependecia del front
 
+import TatetiModel from './TatetiModel'
+
 let drawAux: boolean = false;
 let endAux: boolean = false;
 let turnCounter: number = 0;

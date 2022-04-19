@@ -1,4 +1,4 @@
-class TatetiModel {
+export default class TatetiModel {
 
     board: Array<string>
 
